@@ -103,5 +103,5 @@
 
 ### Tools
 - [ ] - Tax tools & calculator— Onboarding/Bank perk
-- [ ] - Option to launch Gnosis safe from GB app- (*PROMO— First 10 new members, GB pays for safe creation if >100 gwei*)
+- [ ] - Option to launch Gnosis safe from GB app- (*PROMO— First 10 new members, GB pays for safe creation if >50 gwei*)
 - [ ] -

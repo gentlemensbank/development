@@ -5,6 +5,17 @@
 ### Project
 * Progress 45%
 * Build V1.0
+#### Reading
+* [Handshake Deal Protocol(https://www.ycombinator.com/handshake/)
+* [World Commodities And World Currency: Benjamin Graham](https://www.goodreads.com/book/show/518867.World_Commodities_And_World_Currency)
+* [Gnosis Multi-Sig Safe](https://gnosis-safe.io/)
+* [Smart Contract Extensibility with Wrapped Tokens: Yos Riady](https://yos.io/2019/07/13/smart-contract-extensibility-wrapped-tokens/)
+* [Balancer Smart Pools](https://docs.balancer.finance/smart-contracts/smart-pools)
+* [Bankless](https://newsletter.banklesshq.com/)
+* [DAOs, Blockchain, and the Potential of Ownerless Business](https://www.investopedia.com/news/daos-and-potential-ownerless-business/)
+* [What is DeFi?: DeFi Pulse](https://defipulse.com/blog/what-is-defi/)
+* [What’s a DAO?: Aragon](https://aragon.org/dao)
+* [BarnBridge Tokenized Risk Protocol](https://barnbridge.com)
 
 * Website
   - Pages
@@ -82,10 +93,12 @@
 - [ ] - Rari Capital (COMMUNITY SUPPORT/PRODUCT EXPANSION) 
 - [ ] - DuckDAO (SEEDERS/INVESTORS/COMMUNITY SUPPORT)
 - [ ] - Aragon (DAO/GOVERNANCE)
+- [ ] - Snapshot (GOVERNANCE)
 - [ ] - Enzyme Finance- Formerly Melon (PLATFORM/APP EXTENSION)
 - [ ] - Barn Bridge (PRODUCT EXPANSION- SMART GB BONDS, SMART BANK YIELD)
 - [ ] - NFT Platforms- Nftx, SuperRare, Rarible, OpenSea (NON-FUNGIBLE COLLATERAL)
 - [x] - Dune Analytics/Dashboards (TRANSPARENCY, AUDITABILITY)
+- [ ] - Gnosis Safe (MULTISIGNATURE WALLET/SMART CONTRACTS)
 - [ ] - Others
 
 ### Tools

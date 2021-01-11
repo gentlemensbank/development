@@ -84,7 +84,7 @@
 - [ ] - Aragon (DAO/GOVERNANCE)
 - [ ] - Enzyme Finance- Formerly Melon (PLATFORM/APP EXTENSION)
 - [ ] - Barn Bridge (PRODUCT EXPANSION- SMART GB BONDS, SMART BANK YIELD)
-- [ ] - NFT Platforms- NFTX, SUPERRARE, RARIBLE, NIFTYGATEWAY, OPENSEA (NON-FUNGIBLE COLLATERAL)
+- [ ] - NFT Platforms- Nftx, SuperRare, Rarible, OpenSea (NON-FUNGIBLE COLLATERAL)
 - [x] - Dune Analytics/Dashboards (TRANSPARENCY, AUDITABILITY)
 - [ ] - Others
 

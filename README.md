@@ -19,10 +19,10 @@
 * Build V1.0
 ***
 * Website
-  - Pages
+  * Pages
 - [x] - Main
-- [ ] - Sub 
-  - Integrations
+- [ ] - Sub
+  * Integrations
 - [ ] - IPFS
 - [ ] - DeFi
 - [ ] - Other Blockchains 

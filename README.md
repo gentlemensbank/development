@@ -6,7 +6,7 @@
 * Progress 45%
 * Build V1.0
 #### Reading
-* [Handshake Deal Protocol(https://www.ycombinator.com/handshake/)
+* [Handshake Deal Protocol](https://www.ycombinator.com/handshake/)
 * [World Commodities And World Currency: Benjamin Graham](https://www.goodreads.com/book/show/518867.World_Commodities_And_World_Currency)
 * [Gnosis Multi-Sig Safe](https://gnosis-safe.io/)
 * [Smart Contract Extensibility with Wrapped Tokens: Yos Riady](https://yos.io/2019/07/13/smart-contract-extensibility-wrapped-tokens/)

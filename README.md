@@ -13,10 +13,11 @@
 * [What is DeFi?: DeFi Pulse](https://defipulse.com/blog/what-is-defi/)
 * [What’s a DAO?: Aragon](https://aragon.org/dao)
 * [BarnBridge Tokenized Risk Protocol](https://barnbridge.com)
-
+***
 ## Project
 * Progress 45%
 * Build V1.0
+***
 * Website
   - Pages
 - [x] - Main
@@ -26,7 +27,7 @@
 - [ ] - IPFS
 - [ ] - DeFi
 - [ ] - Other Blockchains 
-
+***
 * Dapp 
 - [ ] - Browser Version
 - [ ] - Mobile Version

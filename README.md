@@ -2,10 +2,7 @@
 
 ## Overview
 
-### Project
-* Progress 45%
-* Build V1.0
-#### Reading
+### Reading
 * [Handshake Deal Protocol](https://www.ycombinator.com/handshake/)
 * [World Commodities And World Currency: Benjamin Graham](https://www.goodreads.com/book/show/518867.World_Commodities_And_World_Currency)
 * [Gnosis Multi-Sig Safe](https://gnosis-safe.io/)
@@ -17,6 +14,9 @@
 * [What’s a DAO?: Aragon](https://aragon.org/dao)
 * [BarnBridge Tokenized Risk Protocol](https://barnbridge.com)
 
+## Project
+* Progress 45%
+* Build V1.0
 * Website
   - Pages
 - [x] - Main

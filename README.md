@@ -71,7 +71,7 @@
 - [ ] -
 - [ ] -
 
-## Marketing
+## Marketing & Operations
 
 ### Ideas
 *

@@ -22,7 +22,6 @@
   - Pages
 - [x] - Main
 - [ ] - Sub 
-
   - Integrations
 - [ ] - IPFS
 - [ ] - DeFi
@@ -49,7 +48,7 @@
 *
 *
 ### Development
-- [ ] - Uniswap like interface- ( swap tokens for ERC20_GBS)
+- [ ] - Uniswap like interface- Token Swapping ( swap tokens for ERC20_GBS)
 - [ ] - Redemption contract- Send exact GBS to treasury for exact GBN (redeem exact tokens for exact tokens)
 - [ ] -
 - [ ] -

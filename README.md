@@ -82,10 +82,14 @@
 - [ ] -
 - [ ] -
 
+## Taxation & Government Rules
+### Ideas (unexplored)
+- The use of "stocks" (värdepappren) is considerably easier for end users to use when declaring taxes, one big bank called Avanza is doing that for Ethereum
+
 ## Marketing & Operations
 
 ### Ideas
-*
+* 
 *
 *
 *

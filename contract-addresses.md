@@ -3,9 +3,13 @@
 
 ## Vaults
 
-* Treasury: [N/A](#) Pending Creation
-* Public: [**0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D**](https://gnosis-safe.io/app/#/safes/0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D/balances)(Gnosis), [0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D](https://etherscan.io/address/0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D)(Etherscan)
-* Main: [**0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5**](https://gnosis-safe.io/app/#/safes/0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5/balances)(Gnosis), [0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5](https://etherscan.io/address/0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5)(Etherscan)
+* Treasury: [N/A](#) (Pending Creation)
+* Public
+  * [**0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D**](https://gnosis-safe.io/app/#/safes/0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D/balances)(Gnosis), 
+  *   [0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D](https://etherscan.io/address/0x63E943f89f16FFfA0fDc1Ef0CAd397C95C74eE2D)(Etherscan)
+* Main 
+  * [**0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5**](https://gnosis-safe.io/app/#/safes/0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5/balances)(Gnosis), 
+  * [0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5](https://etherscan.io/address/0x86d49e5484A682E6cc96Cb158f425549ea8fC3C5)(Etherscan)
 
 ## Tokens
 

@@ -13,6 +13,8 @@
 * [What is DeFi?: DeFi Pulse](https://defipulse.com/blog/what-is-defi/)
 * [What’s a DAO?: Aragon](https://aragon.org/dao)
 * [BarnBridge Tokenized Risk Protocol](https://barnbridge.com)
+* [Enzyme Finance](https://enzyme.finance)
+
 ***
 ## Project
 * Progress 45%

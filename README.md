@@ -17,7 +17,7 @@
 
 ***
 ## Project
-* Progress 45%
+* Progress 52%
 * Build V1.0
 ***
 * Website
@@ -61,10 +61,10 @@
 
 ## Website
 - [x] - Home Page
-- [ ] - Vault Page
-- [ ] - Insights Page
-- [ ] - Documentation
-- [ ] - Social Media
+- [x] - Vault Page
+- [x] - Insights Page
+- [x] - Documentation
+- [x] - Social Media
 - [ ] - Dapp connect
 - [ ] -
 - [ ] - 
@@ -99,11 +99,12 @@
 - [ ] - Rari Capital (COMMUNITY SUPPORT/PRODUCT EXPANSION) 
 - [ ] - DuckDAO (SEEDERS/INVESTORS/COMMUNITY SUPPORT)
 - [ ] - Aragon (DAO/GOVERNANCE)
-- [ ] - Snapshot (GOVERNANCE)
-- [ ] - Enzyme Finance- Formerly Melon (PLATFORM/APP EXTENSION)
+- [x] - Snapshot (GOVERNANCE)
+- [x] - Enzyme Finance- Formerly Melon (PLATFORM/APP EXTENSION)
 - [ ] - Barn Bridge (PRODUCT EXPANSION- SMART GB BONDS, SMART BANK YIELD)
 - [ ] - NFT Platforms- Nftx, SuperRare, Rarible, OpenSea (NON-FUNGIBLE COLLATERAL)
 - [x] - Dune Analytics/Dashboards (TRANSPARENCY, AUDITABILITY)
+- [x] - Rarible Marketplace (NFTs, T-Bonds, Member Badges)
 - [ ] - Gnosis Safe (MULTISIGNATURE WALLET/SMART CONTRACTS)
 - [ ] - Others
 
